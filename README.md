@@ -1,6 +1,6 @@
 # Proxies
 
-Current Authentication Details:
+Current Authentication Details:\n
 Username: `Go`, Password: `FuckYourself`
 
 ## List

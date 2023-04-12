@@ -8,7 +8,6 @@ Username: `Go`, Password: `FuckYourself`
 
 ### Active
 ```
-> where-tf-is-norway.cf
 > totallynotapornsite.cf
 > brickyeeter.gq
 > satchelone.tk
@@ -19,5 +18,6 @@ Username: `Go`, Password: `FuckYourself`
 
 ### Inactive
 ```
+> where-tf-is-norway.cf
 > fileyeeter.gq
 ```
